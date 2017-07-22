@@ -1,0 +1,10 @@
+wp-config.php
+
+# Plugins
+wp-content/plugins
+
+# Themes
+wp-content/themes
+
+# Uploads
+wp-content/uploads
